@@ -11,3 +11,26 @@
 ### New Layout
 
 ![new-layout](./Images/new-layout.png)
+
+### Updating site.yml with dynamic assignments
+
+![updating-site-yml-with-dynamic-assignments](./Images/updating-site-yml-with-dynamic-assignments.png)
+
+### New role created by geerlingguy installed using ansible-galaxy and folder renamed to mysql
+
+`ansible-galaxy install geerlingguy.mysql`
+`mv geerlingguy.mysql/ mysql`
+
+![new-role-created-using-ansible-galaxy](./Images/new-role-created-by-geerlingguy-installed-using-ansiblegalaxy-and-renamed-to-mysql.png)
+
+### Uploading our changes to github roles-feature branch
+
+`git checkout main`
+`git pull origin roles-feature`
+`git merge roles-feature`
+`git commit -m "Commit new role files into GitHub and merging with main"`
+`git push`
+
+![uploading-changes-to-git](./Images/uploading-changes-to-git.png)
+
+![uploading-changes-to-git](./Images/uploading-changes-to-git-2.png)
