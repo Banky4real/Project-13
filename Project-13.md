@@ -34,3 +34,9 @@
 ![uploading-changes-to-git](./Images/uploading-changes-to-git.png)
 
 ![uploading-changes-to-git](./Images/uploading-changes-to-git-2.png)
+
+### Running our playbook against to configure apache Load Balancer
+
+![Running-our-playbook-and-setting-apacheLB-to-true](./Images/Running-our-playbook-and-setting-apacheLB-to-true.png)
+
+![Running-our-playbook-and-setting-apacheLB-to-true](./Images/Running-our-playbook-and-setting-apacheLB-to%20true-pt2.png)
