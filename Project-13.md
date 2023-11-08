@@ -35,8 +35,20 @@
 
 ![uploading-changes-to-git](./Images/uploading-changes-to-git-2.png)
 
-### Running our playbook against to configure apache Load Balancer
+### Running our playbook against dev to configure msql
 
-![Running-our-playbook-and-setting-apacheLB-to-true](./Images/Running-our-playbook-and-setting-apacheLB-to-true.png)
+![Running-our-playbook-to-install-msql](./Images/my-sql-role-successful-play-a-in-1.png)
 
-![Running-our-playbook-and-setting-apacheLB-to-true](./Images/Running-our-playbook-and-setting-apacheLB-to%20true-pt2.png)
+
+### Running our playbook against dev to configure apache Load Balancer
+
+![Running-our-playbook-and-setting-apacheLB-to-true](./Images/apache-set-to-true.png)
+
+![Running-our-playbook-against-dev-to-install-apache](./Images/apache-roles-successfully-installed-a-in-1.png)
+
+
+### Running our playbook against dev to configure nginx Load Balancer
+
+![Running-our-playbook-and-setting-nginx-to-true](./Images/nginx-set-to-true.png)
+
+![Running-our-playbook-against-dev-to-install-apache](./Images/nginx-role-installed-successfully-a-in-1.png)
